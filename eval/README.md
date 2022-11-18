@@ -1,7 +1,7 @@
 Microsoft COCO Caption Evaluation
 ===================
 
-Evaluation codes for MS COCO caption generation.
+Evaluation codes for MS COCO caption generation. The evaluation findings on the generated captions are presented at this [link](https://drive.google.com/drive/folders/1-6RGr6JJDBLWtHAkV7UQaGLt5GhVGZQZ?usp=sharing).
 
 ## Description ##
 This repository provides Python 3 support for the caption evaluation metrics used for the MS COCO dataset.
